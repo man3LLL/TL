@@ -1,5 +1,7 @@
 # Autoformer (NeurIPS 2021)
 
+#TL 基于Autoformer代码框架，简易修改方法：直接在模型.py文件上修改，只不过模型名字没有变
+
 Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
 
 Time series forecasting is a critical demand for real applications. Enlighted by the classic time series analysis and stochastic process theory, we propose the Autoformer as a general series forecasting model [[paper](https://arxiv.org/abs/2106.13008)]. **Autoformer goes beyond the Transformer family and achieves the series-wise connection for the first time.**
