@@ -1,6 +1,7 @@
 # Autoformer (NeurIPS 2021)
 
 #TL 基于Autoformer代码框架，简易修改方法：直接在模型.py文件上修改，只不过模型名字没有变
+#使用我的方法，将TL.py文件内容替换model文件里的Transformer.py
 
 Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
 
